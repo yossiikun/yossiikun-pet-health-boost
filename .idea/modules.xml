@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yossiikun-pet-health-boost.main.iml" filepath="$PROJECT_DIR$/.idea/modules/yossiikun-pet-health-boost.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yossiikun-pet-health-boost.test.iml" filepath="$PROJECT_DIR$/.idea/modules/yossiikun-pet-health-boost.test.iml" />
+    </modules>
+  </component>
+</project>
