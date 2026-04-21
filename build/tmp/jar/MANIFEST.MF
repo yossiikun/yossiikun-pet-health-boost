@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: yossiikun_pet_health_boost
+Specification-Vendor: yossiikun
+Specification-Version: 1
+Implementation-Title: yossiikun-pet-health-boost
+Implementation-Version: 0.0.1
+Implementation-Vendor: yossiikun
+Implementation-Timestamp: 2026-01-30T23:01:36+0900
+
