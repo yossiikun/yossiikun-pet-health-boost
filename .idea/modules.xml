@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yossiikun-pet-health-boost.main.iml" filepath="$PROJECT_DIR$/.idea/modules/yossiikun-pet-health-boost.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yossiikun-pet-health-boost.test.iml" filepath="$PROJECT_DIR$/.idea/modules/yossiikun-pet-health-boost.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yossiikunpethealthboost-1.21.1-neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/yossiikunpethealthboost-1.21.1-neoforge.main.iml" />
     </modules>
   </component>
 </project>
