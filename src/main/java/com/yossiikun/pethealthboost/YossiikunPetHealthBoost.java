@@ -1,7 +1,7 @@
 package com.yossiikun.pethealthboost;
 
 import com.mojang.logging.LogUtils;
-import net.minecraft.resources.ResourceLocation;
+import net.minecraft.resources.Identifier;
 import net.minecraft.world.entity.ai.attributes.AttributeModifier;
 import net.minecraft.world.entity.ai.attributes.Attributes;
 import net.minecraft.world.entity.TamableAnimal;
@@ -21,8 +21,8 @@ public class YossiikunPetHealthBoost {
     public static final String MODID = "yossiikunpethealthboost";
     private static final Logger LOGGER = LogUtils.getLogger();
 
-    private static final ResourceLocation HEALTH_BOOST_ID =
-            ResourceLocation.fromNamespaceAndPath(MODID, "health_boost");
+    private static final Identifier HEALTH_BOOST_ID =
+            Identifier.fromNamespaceAndPath(MODID, "health_boost");
 
     public YossiikunPetHealthBoost() {
 
