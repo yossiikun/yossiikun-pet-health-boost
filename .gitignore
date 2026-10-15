@@ -3,20 +3,27 @@
 build/
 !gradle/wrapper/gradle-wrapper.jar
 
-### IDE ###
+### IntelliJ IDEA ###
 .idea/
 *.iws
 *.iml
 *.ipr
 out/
 .run/
-.vscode/
+
+### Eclipse ###
+.apt_generated/
 .classpath
+.eclipse/
+.factorypath
 .project
 .settings/
-.factorypath
-.apt_generated/
+.springBeans
+.sts4-cache/
 bin/
+
+### VS Code ###
+.vscode/
 
 ### OS ###
 .DS_Store
