@@ -1,0 +1,13 @@
+{
+  "itemGroup.yossiikunpethealthboost": "Example Mod Tab",
+  "block.yossiikunpethealthboost.example_block": "Example Block",
+  "item.yossiikunpethealthboost.example_item": "Example Item",
+
+  "yossiikunpethealthboost.configuration.title": "yossiikun pet health boost Configs",
+  "yossiikunpethealthboost.configuration.section.yossiikunpethealthboost.common.toml": "yossiikun pet health boost Configs",
+  "yossiikunpethealthboost.configuration.section.yossiikunpethealthboost.common.toml.title": "yossiikun pet health boost Configs",
+  "yossiikunpethealthboost.configuration.items": "Item List",
+  "yossiikunpethealthboost.configuration.logDirtBlock": "Log Dirt Block",
+  "yossiikunpethealthboost.configuration.magicNumberIntroduction": "Magic Number Text",
+  "yossiikunpethealthboost.configuration.magicNumber": "Magic Number"
+}
